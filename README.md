@@ -71,8 +71,8 @@
   <a href="mailto:talhasaleem80@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/talha-saleem-55176b44/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://talhaportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~01a93e0d123c7d5bd4"><img src="https://img.shields.io/badge/Upwork-%2300B22D.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/users/talhasaleem80"><img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/talhaappdeveloper"><img src="https://img.shields.io/badge/Upwork-%2300B22D.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/sellers/mtalhasaleem"><img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </p>
 
 ---
