@@ -5,8 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/3c1b5eb1c1cfdffad139be5cb4dab510-1742163365708/b5df20d8-5ae0-4536-a3e2-8f38e81f3967.png" alt="Talha Saleem" width="200" style="border-radius: 50%;" />
-</p>
 
 <h3 align="center">🚀 Senior Mobile & Full Stack Developer | 10+ Years Experience</h3>
 
