@@ -18,7 +18,7 @@
 - 🚀 10+ years of experience in **Mobile** & **Full Stack Web Development**
 - 💼 **Mobile Expertise**: Flutter | React Native | Android (Kotlin/Java) | iOS (Swift/SwiftUI)
 - 🌐 **Web Expertise**: Node.js | React.js | Next.js | Nest.js
-- 📱 Deployed 20+ Production Apps
+- 📱 Deployed 60+ Production Apps
 - 🔧 Expert in:
   - State Management: BLoC, Cubit, Riverpod, Provider, Redux, Hooks
   - Navigation: AutoRoute, React Navigation, Flutter Navigator 2.0
