@@ -1,91 +1,93 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Talha+Saleem!;Senior+Mobile+%26+Full+Stack+Developer;10%2B+Years+of+Experience+in+Tech" alt="Typing SVG" />
+  Hi 👋, I'm <span style="color:#007acc;">Talha Saleem</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 </h1>
 
 <p align="center">
-  <img src="profile.png" alt="Talha Saleem" width="150" height="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/7171979?v=4&size=100" alt="Talha Saleem" width="200" style="border-radius: 50%;" />
 </p>
+
+<h3 align="center">🚀 Senior Mobile & Full Stack Developer (10+ years)</h3>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br />
-  <strong>— Cory House</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Senior+Mobile+App+Developer;Flutter+%7C+React+Native+%7C+Swift+%7C+Kotlin;Full+Stack+Expert+%7C+Node.js+%7C+React.js+%7C+Next.js+%7C+Nest.js" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🚀 10+ years of experience in **Mobile** & **Full Stack Web Development**
-- 💼 **Mobile Expertise**: Flutter | React Native | Android (Kotlin/Java) | iOS (Swift/SwiftUI)
-- 🌐 **Web Expertise**: Node.js | React.js | Next.js | Nest.js
-- 📱 Deployed 60+ Production Apps
-- 🔧 Expert in:
-  - State Management: BLoC, Cubit, Riverpod, Provider, Redux, Hooks
-  - Navigation: AutoRoute, React Navigation, Flutter Navigator 2.0
-- 🧠 Loves Clean Code, Scalable Architectures & Intuitive UIs
-- 📍 Based in Pakistan
-- 🌍 Portfolio: [talhaportfolio.web.app](https://talhaportfolio.web.app)
-- 📫 Email: [talhasaleem80@gmail.com](mailto:talhasaleem80@gmail.com)
-- 💼 LinkedIn: [Talha Saleem](https://www.linkedin.com/in/talha-saleem-55176b44/)
+### 🧠 “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
 
 ---
 
-## 🧠 Featured Projects
+### 🔧 Tech Stack
 
-| App Name          | Description                                                                 |
-|-------------------|-----------------------------------------------------------------------------|
-| **BRB (Barber Booking App)** | Complete salon booking solution with real-time slot management |
-| **WhichWash App** | Car wash locator with filters, categories, and real-time booking UI         |
-| **MYUMT App**     | Official university app for UMT with scanning, student data, QR attendance  |
-| **Daydreamer**    | Goal setting and mental wellness tracking app                               |
-| **CampusFeed**    | Student-only social media platform with authentication and live updates     |
-| **StoreLynk**     | Inventory and store management app for SMEs                                 |
-| **EApproval App** | Approval chain and task manager app for organizational flow                 |
-| **Room Stats App**| IoT-enabled room usage, scheduling and analytics dashboard                  |
+#### 📱 **Mobile Development**
+- Flutter (Bloc, Cubit, Provider, Riverpod, GetX, AutoRoute, Dio, TDD)
+- React Native (Hooks, Redux Toolkit, React Navigation, Axios, AsyncStorage)
+- Native Android (Java, Kotlin)
+- Native iOS (Swift, SwiftUI)
 
----
+#### 🌐 **Web Development**
+- React.js, Next.js, Redux, Tailwind CSS
+- Node.js, Nest.js, Express.js
+- Firebase, MongoDB, PostgreSQL
+- REST APIs, GraphQL
 
-## 🛠️ Tech Stack
-
-### 📱 Mobile:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-
-### 🌐 Web:
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-
-### 📦 Tools & Concepts:
-![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-3A4DF8?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
+#### 🛠️ **Dev Tools**
+- Git, GitHub, Bitbucket
+- VS Code, Android Studio, Xcode
+- Postman, Insomnia
+- Jira, Trello
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhasaleem80&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasaleem80&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhasaleem80&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhasaleem80&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Reach Me
+### 📌 Projects
+
+- 🚿 [**WhichWash App**](https://play.google.com/store/apps/details?id=com.whichwash): Car wash booking app
+- 💇 [**BRB - Barber Booking App**]: Real-time salon scheduling app
+- 🎓 [**MyUMT**]: Campus utility and academic portal
+- 🛍️ [**StoreLynk**]: Store locator & promotion app
+- 💬 [**CampusFeed**]: Social networking for students
+- ☁️ [**Daydreamer**]: Mood tracker and mental health app
+- 📊 [**Room Stats Management App**]: IoT-based real-time room analytics
+- 🌍 [**Eapproval**]: University approval management
+- 😄 [**VOS App**]: Voice over schedule & collaboration
+- ✨ [**Happiness App**]: Daily motivational and wellness tracker
+
+---
+
+### 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:talhasaleem80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/talha-saleem-55176b44/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://talhaportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:talhasaleem80@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/talha-saleem-55176b44/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://talhaportfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01a93e0d123c7d5bd4"><img src="https://img.shields.io/badge/Upwork-%2300B22D.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/users/talhasaleem80"><img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </p>
 
 ---
 
-_“First, solve the problem. Then, write the code.” – John Johnson_
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasaleem80&layout=compact&theme=radical" />
+</p>
+
+---
+
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*
+
+---
+
+### 🧩 Let's Build Something Amazing Together!
 
